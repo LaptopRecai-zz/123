@@ -27,3 +27,11 @@ starthook MF_DrugSales
 78.174.200.14 - h04x
 
 endhook MF_DrugSales
+
+---
+
+starthook MF_Fleeca
+
+78.174.200.14 - h04x
+
+endhook MF_Fleeca
