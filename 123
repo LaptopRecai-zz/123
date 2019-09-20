@@ -2,5 +2,28 @@ starthook MF_PacificStandard
 
 78.174.200.14 - test
 
-
 endhook MF_PacificStandard
+
+---
+
+starthook MF_DnaTracker
+
+78.174.200.14 - test
+
+endhook MF_DnaTracker
+
+---
+
+starthook MF_SafeCracker
+
+78.174.200.14 - test
+
+endhook MF_SafeCracker
+
+---
+
+starthook MF_DrugSales
+
+78.174.200.14 - h04x
+
+endhook MF_DrugSales
