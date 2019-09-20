@@ -24,7 +24,7 @@ endhook MF_SafeCracker
 
 starthook MF_DrugSales
 
-78.174.200.14 - h04x
+78.174.200.14 - test
 
 endhook MF_DrugSales
 
@@ -32,6 +32,16 @@ endhook MF_DrugSales
 
 starthook MF_Fleeca
 
-78.174.200.14 - h04x
+78.174.200.14 - test
 
 endhook MF_Fleeca
+
+---
+
+starthook MF_LockPicking
+
+78.174.200.14 - test
+
+endhook MF_LockPicking
+
+
