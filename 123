@@ -1,6 +1,6 @@
 starthook MF_PacificStandard
 
-78.174.200.14 - test
+158.153.228.100 - test
 
 endhook MF_PacificStandard
 
@@ -8,7 +8,7 @@ endhook MF_PacificStandard
 
 starthook MF_DnaTracker
 
-78.174.200.14 - test
+158.153.228.100 - test
 
 endhook MF_DnaTracker
 
@@ -16,7 +16,7 @@ endhook MF_DnaTracker
 
 starthook MF_SafeCracker
 
-78.174.200.14 - test
+158.153.228.100 - test
 
 endhook MF_SafeCracker
 
@@ -24,7 +24,7 @@ endhook MF_SafeCracker
 
 starthook MF_DrugSales
 
-78.174.200.14 - test
+158.153.228.100 - test
 
 endhook MF_DrugSales
 
@@ -32,7 +32,7 @@ endhook MF_DrugSales
 
 starthook MF_Fleeca
 
-78.174.200.14 - test
+158.153.228.100 - test
 
 endhook MF_Fleeca
 
@@ -40,8 +40,15 @@ endhook MF_Fleeca
 
 starthook MF_LockPicking
 
-78.174.200.14 - test
+158.153.228.100 - test
 
 endhook MF_LockPicking
 
+---
+
+starthook MF_DopePlant
+
+158.153.228.100 - test
+
+endhook MF_DopePlant
 
