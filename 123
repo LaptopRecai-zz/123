@@ -6,11 +6,11 @@ endhook MF_PacificStandard
 
 ---
 
-starthook Kanit
+starthook MF_DnaTracker
 
 78.174.200.14 - test
 
-endhook Kanit
+endhook MF_DnaTracker
 
 ---
 
@@ -22,11 +22,11 @@ endhook MF_SafeCracker
 
 ---
 
-starthook Usat
+starthook MF_DrugSales
 
 78.174.200.14 - test
 
-endhook Usat
+endhook MF_DrugSales
 
 ---
 
